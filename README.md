@@ -37,3 +37,18 @@ You'll be prompted to enter:
 ```bash
 python manage.py runserver
 ```
+
+BiyaHero is a web-based ride-booking platform designed to connect customers and riders efficiently. 
+It allows users to request rides, manage bookings, and track ride history with role-based dashboards 
+for Customers, Riders, and Staff.
+
+Fixes:
+- Sign-in and sign-up functionality (login for existing accounts, register for new ones)
+- Customer dashboard now displays user balance and ride details
+- Implemented dashboard features: Active Rides, Request a Ride, Ride History, and My Profile
+- Added ride request form showing pickup and destination list with minimum fare offer
+
+To be fixed:
+- Role identification and proper dashboard redirection (Customer, Rider, Staff)
+- Sidebar feature link functionality across roles
+- Booking and ride confirmation process
