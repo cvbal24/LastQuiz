@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # ----------------------------
 SECRET_KEY = 'django-insecure-23i8a@0zyt$h9i170f1fzt4z48v^ax696$yv0zko!g9c5^=hf3'
 DEBUG = True
-ALLOWED_HOSTS = ['biyahero-wfmb.onrender.com']
+ALLOWED_HOSTS = []
 
 # ----------------------------
 # Installed Apps
